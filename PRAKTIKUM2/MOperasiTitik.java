@@ -2,7 +2,7 @@
  * File		: MOperasiTitik.java 		01/03/23
  * Penulis 	: Firdian Rahmawan (24060121120018)
  * Deskripsi 	: 
- * kelas yang berisi program utama Operasi Titik
+ * kelas yang berisi main dari Operasi Titik
  * 
  * **/
 
